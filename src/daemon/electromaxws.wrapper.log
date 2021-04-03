@@ -1,0 +1,78 @@
+2021-03-02 21:21:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrador\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\proyectos\electromax\src\server.js --log "electromaxWS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-02 21:21:33 - Started 5220
+2021-03-02 21:22:49 - Stopping electromaxws.exe
+2021-03-02 21:22:49 - ProcessKill 5220
+2021-03-02 21:22:49 - Found child process: 7704 Name: conhost.exe
+2021-03-02 21:22:49 - Found child process: 6608 Name: node.exe
+2021-03-02 21:22:49 - Stopping process 7704
+2021-03-02 21:22:49 - Send SIGINT 7704
+2021-03-02 21:22:49 - SIGINT to 7704 failed - Killing as fallback
+2021-03-02 21:22:49 - Stopping process 6608
+2021-03-02 21:22:49 - Send SIGINT 6608
+2021-03-02 21:22:49 - SIGINT to 6608 failed - Killing as fallback
+2021-03-02 21:22:49 - Stopping process 5220
+2021-03-02 21:22:49 - Send SIGINT 5220
+2021-03-02 21:22:49 - SIGINT to 5220 failed - Killing as fallback
+2021-03-02 21:22:49 - Finished electromaxws.exe
+2021-03-02 21:23:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrador\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\proyectos\electromax\src\server.js --log "electromaxWS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-02 21:23:02 - Started 9700
+2021-03-02 21:24:05 - Stopping electromaxws.exe
+2021-03-02 21:24:05 - ProcessKill 9700
+2021-03-02 21:24:05 - Shutdown exception
+Message:Se está cerrando el sistema. (Excepción de HRESULT: 0x8007045B)
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2021-03-02 21:24:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrador\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\proyectos\electromax\src\server.js --log "electromaxWS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-02 21:24:15 - Started 5184
+2021-03-02 21:55:52 - Stopping electromaxws.exe
+2021-03-02 21:55:52 - ProcessKill 5184
+2021-03-02 21:55:53 - Shutdown exception
+Message:Se está cerrando el sistema. (Excepción de HRESULT: 0x8007045B)
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2021-03-02 21:56:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrador\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\proyectos\electromax\src\server.js --log "electromaxWS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-02 21:56:02 - Started 5188
+2021-03-04 19:59:03 - Stopping electromaxws.exe
+2021-03-04 19:59:03 - ProcessKill 5188
+2021-03-04 19:59:03 - Found child process: 5196 Name: conhost.exe
+2021-03-04 19:59:03 - Found child process: 5596 Name: node.exe
+2021-03-04 19:59:03 - Stopping process 5196
+2021-03-04 19:59:03 - Send SIGINT 5196
+2021-03-04 19:59:03 - SIGINT to 5196 failed - Killing as fallback
+2021-03-04 19:59:03 - Stopping process 5596
+2021-03-04 19:59:03 - Send SIGINT 5596
+2021-03-04 19:59:03 - SIGINT to 5596 failed - Killing as fallback
+2021-03-04 19:59:03 - Stopping process 5188
+2021-03-04 19:59:03 - Send SIGINT 5188
+2021-03-04 19:59:03 - SIGINT to 5188 failed - Killing as fallback
+2021-03-04 19:59:03 - Finished electromaxws.exe
+2021-03-07 10:35:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrador\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\proyectos\electromax\src\server.js --log "electromaxWS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-07 10:35:30 - Started 9012
+2021-03-08 22:56:08 - Stopping electromaxws.exe
+2021-03-08 22:56:08 - ProcessKill 9012
+2021-03-08 22:56:08 - Found child process: 7604 Name: conhost.exe
+2021-03-08 22:56:08 - Found child process: 10168 Name: node.exe
+2021-03-08 22:56:08 - Stopping process 7604
+2021-03-08 22:56:08 - Send SIGINT 7604
+2021-03-08 22:56:08 - SIGINT to 7604 failed - Killing as fallback
+2021-03-08 22:56:08 - Stopping process 10168
+2021-03-08 22:56:08 - Send SIGINT 10168
+2021-03-08 22:56:08 - SIGINT to 10168 failed - Killing as fallback
+2021-03-08 22:56:08 - Stopping process 9012
+2021-03-08 22:56:08 - Send SIGINT 9012
+2021-03-08 22:56:08 - SIGINT to 9012 failed - Killing as fallback
+2021-03-08 22:56:08 - Finished electromaxws.exe

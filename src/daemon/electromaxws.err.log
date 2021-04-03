@@ -1,0 +1,33 @@
+SyntaxError: Unexpected token h in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\proyectos\electromax\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\proyectos\electromax\node_modules\raw-body\index.js:224:16)
+    at done (C:\proyectos\electromax\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\proyectos\electromax\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+SyntaxError: Unexpected token % in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\proyectos\electromax\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\proyectos\electromax\node_modules\raw-body\index.js:224:16)
+    at done (C:\proyectos\electromax\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\proyectos\electromax\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+SyntaxError: Unexpected token p in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (C:\proyectos\electromax\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\proyectos\electromax\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\proyectos\electromax\node_modules\raw-body\index.js:224:16)
+    at done (C:\proyectos\electromax\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\proyectos\electromax\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
